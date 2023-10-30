@@ -13,7 +13,6 @@ const Home = () => {
       <Guide />
       <Features />
       <GetApp />
-      <Footer />
     </>
   );
 };
